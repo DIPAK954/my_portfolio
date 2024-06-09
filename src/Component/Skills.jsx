@@ -5,6 +5,7 @@ const Skills = () => {
         <div className="skill_inner">HTML</div>
         <div className="skill_inner">CSS</div>
         <div className="skill_inner">JavaScript</div>
+        <div className="skill_inner">Bootstrap</div>
         <div className="skill_inner">React.js</div>
         <div className="skill_inner">Redux</div>
         <div className="skill_inner">Redux Toolkit</div>

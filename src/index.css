@@ -3,7 +3,7 @@
     background-color: black;
     margin: 0;
     padding: 10px;
-    
+    min-width: 420px;    
 }
 
 .header{
