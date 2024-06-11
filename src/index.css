@@ -55,9 +55,14 @@
     padding-top:  10%;
 }
 
+#my_name{
+  color: #8533c4;
+}
+
 .about{
     color: white;
     padding: 4rem;
+    text-align: justify;
 }
 
 #about{
@@ -77,7 +82,7 @@
     align-items: center;
     justify-content: center;
     background-color:black;
-    min-height: 100vh;
+    /* min-height: 100vh; */
     /* padding: 100px 0; */
     font-family: Jost;
   }
@@ -225,6 +230,9 @@
    .Projects_main{
     flex-direction: column;
    }
-
+   .header{
+    padding:5% 2% 0 2%;
+   
+   }
 
  }
