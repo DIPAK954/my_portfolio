@@ -69,7 +69,6 @@
     color: white;
     font-size: 25px;
     padding-left: 4rem;
-    padding-top: 4rem;
 }
 
 .design-section {
@@ -189,7 +188,7 @@
     border: 1 solide rgb(102, 101, 101);
     background-color: #242424;
     border-radius: 5px;
-    margin: 1rem;
+    margin: 0.3rem;
     width:18rem;
     min-height: 15rem;
     text-align: center;
@@ -201,9 +200,9 @@
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#E2DB1F", endColorstr="#AE10F9", GradientType=1 );
 
   }
-  .footer{
+  /* .footer{
     padding: 4rem;
-  }
+  } */
 
   .footer a{
     margin: 10px;
@@ -220,6 +219,7 @@
     font-size: 20px;
     background-color:ff1b6b;
   }
+  
  @media screen and (max-width:700px) {
 
    .Projects_main{
