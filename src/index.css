@@ -78,7 +78,7 @@
     justify-content: center;
     background-color:black;
     min-height: 100vh;
-    padding: 100px 0;
+    /* padding: 100px 0; */
     font-family: Jost;
   }
   
