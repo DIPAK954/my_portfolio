@@ -205,6 +205,10 @@
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#E2DB1F", endColorstr="#AE10F9", GradientType=1 );
 
   }
+
+  .projects_name a{
+    padding: 10px;
+  }
   /* .footer{
     padding: 4rem;
   } */

@@ -1,4 +1,6 @@
 import { FaGithub } from "react-icons/fa";
+import { IoIosLink } from "react-icons/io";
+
 const Projects = () => {
   return (
     <div className="Projects" id="id_projects">
@@ -6,11 +8,12 @@ const Projects = () => {
       <div className="Projects_main">
         <div className="projects_inner">
           <p className="projects_name">
-            Weather App
+            Rocket chat
             <br></br>
-            <a href="https://github.com/DIPAK954/PRODIGY_WD_05" target="_blank">
+            <a href="https://github.com/DIPAK954/Rocket-Chat" target="_blank">
               <FaGithub />
             </a>
+            <a href="https://rocket-chat-one.vercel.app/" target="_blank"><IoIosLink /></a>
           </p>
         </div>
         <div className="projects_inner">
@@ -29,6 +32,7 @@ const Projects = () => {
             <a href="https://github.com/DIPAK954/my_portfolio" target="_blank">
               <FaGithub></FaGithub>
             </a>
+            <a href="https://my-portfolio-dipak.vercel.app/" target="_blank"><IoIosLink /></a>
           </p>
         </div>
       </div>
