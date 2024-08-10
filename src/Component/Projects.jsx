@@ -27,6 +27,15 @@ const Projects = () => {
         </div>
         <div className="projects_inner">
           <p className="projects_name">
+            ThoughtStreams
+            <br></br>
+            <a href="https://github.com/DIPAK954/ThoughtStreams" target="_blank">
+              <FaGithub></FaGithub>
+            </a>
+          </p>
+        </div>
+        <div className="projects_inner">
+          <p className="projects_name">
             Portfolio
             <br></br>
             <a href="https://github.com/DIPAK954/my_portfolio" target="_blank">
