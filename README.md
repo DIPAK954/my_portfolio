@@ -1,4 +1,4 @@
-# Person Portfolio
+# Personal Portfolio
 
   Personal portfolio that contain my education quilifiactions, skills and projects. Which are built with React.Js and 
 deployed on vercel.
